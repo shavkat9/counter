@@ -1,0 +1,28 @@
+.hero__btn {
+    width: 130px;
+    height: 48px;
+    background-color: aqua;
+    margin: 10px;
+    color: #fff;
+    border: none;
+    border-radius: 3px;
+    font-size: 17px;
+}
+.happy__btn {
+    width: 130px;
+    height: 48px;
+    background-color: aqua;
+    color: #fff;
+    border: none;
+    font-size: 17px;
+    border-radius: 3px;
+}
+.content {
+    color: rgb(107, 59, 151);
+}
+.hero__btn:hover {
+    background-color: red;
+}
+.happy__btn:hover {
+    background-color: red;
+}
